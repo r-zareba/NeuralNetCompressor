@@ -1,5 +1,6 @@
 .DS_Store
 .idea/*
+__pychache__/*
 *.csv
 *.xml
 *.pb
@@ -7,3 +8,4 @@ saved_models
 *.pt
 *.pth
 *.log
+*.pyc
